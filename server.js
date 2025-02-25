@@ -1,4 +1,4 @@
-// Boilerplate Code for Virtual Assistant API
+
 const express = require('express');
 const app = express();
 
